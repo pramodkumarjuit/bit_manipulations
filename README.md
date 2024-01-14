@@ -20,9 +20,10 @@ Difficulties level - High
 1. Write a function that takes an unsigned int and returns true if its
 binary representation contains at least one instance of at least
 two consecutive zeros.
+
 Examples:
-● Input 00110111101111101111111111011111 Return: true
-● Input: 11111101111011111110000111111111 Return: true
-● Input: 01010101010101010101010101010101 Return: false
-● Input: 11111111111111111111111111111111 Return: false
+ - Input 00110111101111101111111111011111 Return: true
+ - Input: 11111101111011111110000111111111 Return: true
+ - Input: 01010101010101010101010101010101 Return: false
+ - Input: 11111111111111111111111111111111 Return: false
 
