@@ -13,7 +13,9 @@ Difficulties Leevel - Medium
  - Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing.
 5. Swap Odd and Even Bits:
  - Write a function to swap odd and even bits in an integer.
-
+6. Reverse bits of a given 32 bits number:
+ - Write a function that reverses bits of 32 bits number.
+  
 Difficulties level - High
 -------------------------
 
