@@ -10,6 +10,16 @@ void bit_count_optimized(int n) {
     cout << "No. of bits: " << c << endl;
 }
 
+// same as above
+int countSetBits(int num) { // well-known algorithm is the Brian Kernighan's algorithm
+    int count = 0;
+    while (num) {
+        num &= (num - 1);
+        count++;
+    }
+    return count;
+}
+
 int main(int argc, char* argv[])
 {
     cout << "Counting the no. of bits" << endl;
