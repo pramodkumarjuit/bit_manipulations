@@ -29,3 +29,5 @@ int main()
 
     return 0;
 }
+
+// ex: num=42, pos1=2, pos2=5
